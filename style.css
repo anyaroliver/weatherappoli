@@ -97,4 +97,49 @@ h1 {
 
 .favorites-list button:hover {
     background: #ee5253;
+}
+
+.carousel-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 24px 0;
+}
+
+.carousel-btn {
+    background: #74ebd5;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    font-size: 24px;
+    cursor: pointer;
+    margin: 0 8px;
+    transition: background 0.2s;
+}
+
+.carousel-btn:hover {
+    background: #4ecdc4;
+}
+
+.carousel {
+    display: flex;
+    overflow: hidden;
+    width: 260px;
+    height: 220px;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-item {
+    min-width: 240px;
+    max-width: 240px;
+    margin: 0 10px;
+    background: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    padding: 16px;
+    text-align: center;
+    transition: transform 0.3s;
 } 
