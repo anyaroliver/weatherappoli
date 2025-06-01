@@ -20,7 +20,7 @@ const continentCapitals = {
     ],
     'Africa': [
         'Juba','Cairo', 'Nairobi', 'Pretoria', 'Addis Ababa', 'Accra', 'Algiers', 'Dakar', 'Abuja', 'Tripoli', 'Khartoum',
-        'Rabat', 'Tunis', 'Luanda', 'Kampala', 'Maputo', 'Harare', 'Gaborone', 'Windhoek', 'Bamako', 'Lusaka'
+        'Rabat', 'Tunis', 'Luanda', 'Dodoma','Kampala', 'Maputo', 'Harare', 'Gaborone', 'Windhoek', 'Bamako', 'Lusaka'
     ],
     'North America': [
         'Washington', 'Ottawa', 'Mexico City', 'Havana', 'Kingston', 'Guatemala City', 'Panama City', 'San Jose', 'Tegucigalpa', 'Belmopan',
